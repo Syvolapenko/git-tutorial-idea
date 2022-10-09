@@ -2,6 +2,6 @@ public class ggf {
     public static void main(String[] args) {
         System.out.println(Hello World);
     }
-    int A
+    int Af
 }
 }
